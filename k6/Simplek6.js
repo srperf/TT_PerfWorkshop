@@ -12,5 +12,5 @@ export const options = {
 };
 
 export default function () {
-  http.get('http://www.google.com');
+  http.get('http://www.google.com/');
 }
